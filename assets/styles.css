@@ -1,9 +1,9 @@
 /* ===== Variables CSS ===== */
 :root {
-    --primary-color: #0d6efd;
+    --primary-color: #105e1c;
     --text-color: #212529;
     --light-bg: #f8f9fa;
-    --border-color: #dee2e6;
+    --border-color: #fa0202;
 }
 
 /* ===== Reset y base ===== */
@@ -18,7 +18,7 @@ html {
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Arial', sans-serif;  /* Cambiar a Arial */
     line-height: 1.6;
     color: var(--text-color);
 }
